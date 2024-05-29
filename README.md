@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @elprofessor-creator
+- 👋 Hi, I’m @0xOzgur
 - 👀 I’m interested in smart contracts and dapps
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript and go.
 - 💞️ I’m looking to collaborate on any new blockchain project
-- 📫 Reach me via elprofessor.creator@gmail.com
+- 📫 Reach me via 0xOzgurx@gmail.com
